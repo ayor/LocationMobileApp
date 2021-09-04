@@ -1,0 +1,14 @@
+com/reactnativecrashcourse/ReactNativeFlipper.java
+ com.reactnativecrashcourse.ReactNativeFlipper
+ com.reactnativecrashcourse.ReactNativeFlipper$1
+ com.reactnativecrashcourse.ReactNativeFlipper$2
+ com.reactnativecrashcourse.ReactNativeFlipper$2$1
+com/reactnativecrashcourse/MainApplication.java
+ com.reactnativecrashcourse.MainApplication
+ com.reactnativecrashcourse.MainApplication$1
+com/reactnativecrashcourse/MainActivity.java
+ com.reactnativecrashcourse.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/reactnativecrashcourse/BuildConfig.java
+ com.reactnativecrashcourse.BuildConfig
